@@ -24,14 +24,14 @@ This project is a modern landing page built using **React**, **Three.js**, and *
 ## Screenshots
 
 ### Landing Page
-![Landing Page Screenshot](../public/57.png)
+![Landing Page Screenshot](![Image](https://github.com/user-attachments/assets/029b5c92-de5c-41a4-9a7a-6e2a6cfa211d))
 
 ### 3D MacBook Model
-![3D MacBook Screenshot](../public/57.png)
+![3D MacBook Screenshot](![Image](https://github.com/user-attachments/assets/029b5c92-de5c-41a4-9a7a-6e2a6cfa211d))
 
 ## Demo Video
 
-[![Watch the video](../public/57.png)](../public/sample.mp4)
+[![Watch the video](![Image](https://github.com/user-attachments/assets/029b5c92-de5c-41a4-9a7a-6e2a6cfa211d))](../public/sample.mp4)
 
 ## Getting Started
 
