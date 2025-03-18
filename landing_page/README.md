@@ -30,7 +30,7 @@ This project is a modern landing page built using **React**, **Three.js**, and *
 ![Image](https://github.com/user-attachments/assets/029b5c92-de5c-41a4-9a7a-6e2a6cfa211d)
 
 ## Demo Video
-
+https://github.com/user-attachments/assets/670580f1-b45b-4ba9-9d1d-05256a2ede5f
 
 
 ## Getting Started
